@@ -155,3 +155,4 @@ Completed ✅
 
 This project is part of my Python learning journey.
 # trivia-game
+# trivia-game
